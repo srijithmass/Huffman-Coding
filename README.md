@@ -104,7 +104,7 @@ for (char,frequency)in freq:
 
 ## Output:
 
-![](1.PNG)
+![](1.png)
 
 ## Result
 
